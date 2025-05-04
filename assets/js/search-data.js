@@ -29,7 +29,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-attendance-to-the-complexity-amp-amp-algorithms-workshop-2025",
-          title: 'Attendance to the Complexity &amp;amp;amp; Algorithms Workshop 2025.',
+          title: 'Attendance to the Complexity &amp;amp;amp; Algorithms Workshop (2025).',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
