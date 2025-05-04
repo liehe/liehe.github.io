@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attendance to the Complexity & Algorithms Workshop 2025.
+Attendance to the [Complexity & Algorithms Workshop](https://mp.weixin.qq.com/s/DwK8Y54KZtz5jFuv7_gwPA) (2025).
