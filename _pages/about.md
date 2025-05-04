@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='https://english.sufe.edu.cn/'>Shanghai University of Finance and Economics</a>.
 
