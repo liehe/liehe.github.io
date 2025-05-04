@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p>777 Guoding Road</p>
     <p>Shanghai, 200433</p>
-    <p>P. R. China</p>
+    <p>P.R.China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

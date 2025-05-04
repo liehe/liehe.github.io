@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: (*: equal contributions; superscripts<br>†: corresponding authors.)
+description: #(*: equal contributions; superscripts<br>†: corresponding authors.)
 nav: true
 nav_order: 2
 ---
