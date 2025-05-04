@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://english.sufe.edu.cn/'>SUFE</a>. 777 Guoding Road， Shanghai 200433, P.R.China.
+subtitle: <a href='https://english.sufe.edu.cn/'>Shanghai University of Finance and Economics</a>. 777 Guoding Road， Shanghai 200433, P.R.China.
 
 profile:
   align: right
@@ -24,4 +24,4 @@ announcements:
 ---
 
 
-I am an incoming Tenure Track Assistant Professor at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in the School of Computing and Artificial Intelligence. Prior to that, I obtained my Ph.D. at [MLO, École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/mlo/), fortunately under the advised by Prof. Martin Jaggi. I received the Master of Science degree from EPFL and Bachelor of Science degree from University of Science and Technology of China (USTC).
+I am an incoming Tenure Track Assistant Professor at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) (SUFE) in the School of Computing and Artificial Intelligence. Prior to that, I obtained my Ph.D. at [MLO, École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/mlo/), fortunately under the advised by Prof. Martin Jaggi. I received the Master of Science degree from EPFL and Bachelor of Science degree from University of Science and Technology of China (USTC).
