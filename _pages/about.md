@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://english.sufe.edu.cn/'>SUFE</a>. 777 Guoding Road， Shanghai 200433, P.R.China.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
