@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='https://english.sufe.edu.cn/'>Shanghai University of Finance and Economics</a>.
+subtitle: ML, Optimization, AI Agents | Tenure-track AP @ <a href='https://english.sufe.edu.cn/'>SUFE </a>.
 
 profile:
   align: right
@@ -24,6 +24,6 @@ announcements:
 ---
 
 
-I am an incoming Tenure Track Assistant Professor at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) (SUFE) in the School of Computing and Artificial Intelligence. Prior to that, I obtained my Ph.D. at [MLO, École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/mlo/), fortunately under the advised by Prof. [Martin Jaggi](https://scholar.google.com/citations?user=r1TJBr8AAAAJ&hl=en). I received the Master of Science degree from EPFL and Bachelor of Science degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
+I am an incoming Tenure Track Assistant Professor at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) (SUFE) in the School of Computing and Artificial Intelligence. Prior to that, I obtained my Ph.D. at [MLO, École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/mlo/), fortunately advised by Prof. [Martin Jaggi](https://scholar.google.com/citations?user=r1TJBr8AAAAJ&hl=en). I received the Master of Science degree from EPFL and Bachelor of Science degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
 
-:fire: I am looking for highly motivated research assistants on optimization, AI Agents, AI4Sci research etc. Feel free to reach out to me at liam.he15@gmail.com. 
+:fire: I am looking for highly motivated research assistants on **optimization**, **AI Agents**, **AI4Sci research** etc. Feel free to reach out to me at **liam.he15@gmail.com**. 

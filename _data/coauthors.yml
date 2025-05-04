@@ -2,19 +2,40 @@
   - firstname: ["Martin", "M."]
     url: https://scholar.google.com/citations?user=r1TJBr8AAAAJ&hl=en
 
-"Lin":
+"lin":
   - firstname: ["Tao", "T."]
     url: https://tlin-taolin.github.io/
 
-"Karimireddy":
+"karimireddy":
   - firstname: ["Sai Praneeth", "Sai", "Praneeth", "S.P."]
     url: https://spkreddy.org/
 
-"Kasiviswanathan":
+"kasiviswanathan":
   - firstname: ["Shiva Prasad", "Shiva", "S.P."]
     url: https://spkreddy.org/
 
-"Bian":
-  - firstname: ["An", "YaTao"]
+"bian":
+  - firstname: ["An", "A."]
     url: https://yataobian.com/
- 
+
+"hashemi":
+  - firstname: ["Diba", "D."]
+    url: https://scholar.google.com/citations?user=KU-7kn0AAAAJ&hl=en
+
+"yao":
+  - firstname: ["Yunzhen", "Y."]
+    url: https://scholar.google.com/citations?user=Ga00jcIAAAAJ&hl=en
+
+"gastpar":
+  - firstname: ["Michael", "M."]
+    url: https://scholar.google.com/citations?user=IQ3hcw4AAAAJ&hl=en
+
+
+"werner":
+  - firstname: ["Mariel", "M."]
+    url: https://scholar.google.com/citations?user=BB833ugAAAAJ&hl=en
+
+
+"jordan":
+  - firstname: ["Michael", "Michael I.", "M."]
+    url: https://people.eecs.berkeley.edu/~jordan/

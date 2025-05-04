@@ -1,9 +1,6 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"FTML":
+  url: https://www.nowpublishers.com/article/Details/MAL-083
+  color: "#009f36"
 
 "PhysRev":
   url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
