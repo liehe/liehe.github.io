@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to [ICML](https://arxiv.org/abs/2501.18282) (2025).
+**One paper accepted to [ICML](https://arxiv.org/abs/2501.18282) (2025)**.
