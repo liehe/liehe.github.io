@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: #(*: equal contributions; superscripts<br>†: corresponding authors.)
+description: "*: equal contribution; †: corresponding author."
 nav: true
 nav_order: 2
 ---
@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h1>Conference &amp; journal papers</h1>
+
+{% bibliography --group_by year --group_order descending --query @*[category=published]* %}
+
+<h1>Workshop &amp; technical reports</h1>
+
+{% bibliography --group_by year --group_order descending --query @*[category=other]* %}
 
 </div>

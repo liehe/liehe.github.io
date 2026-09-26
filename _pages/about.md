@@ -2,28 +2,33 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML, Optimization, AI Agents | Tenure-track AP @ <a href='https://english.sufe.edu.cn/'>SUFE </a>.
+subtitle: Machine Learning, Optimization, and AI Agents · Tenure-track Assistant Professor at <a href='https://english.sufe.edu.cn/'>SUFE</a>
 
 profile:
   align: right
   image: mug_shot.JPG
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>777 Guoding Road</p>
-    <p>Shanghai, 200433</p>
-    <p>P.R.China</p>
+
+intro: >-
+  I am currently a tenure-track Assistant Professor at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) (SUFE) in the School of Computing and Artificial Intelligence. Prior to that, I obtained my Ph.D. at [MLO, École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/mlo/), advised by Prof. [Martin Jaggi](https://scholar.google.com/citations?user=r1TJBr8AAAAJ&hl=en). I received my Master of Science degree from EPFL and Bachelor of Science degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 15 # leave blank to include all the news in the `_news` folder
+  scrollable: false # lets the page scroll naturally
+  limit: 7 # keep the home page concise; the full archive remains on the news page
 
 ---
 
+### Current research interests
 
-I am currently a Tenure Track Assistant Professor at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) (SUFE) in the School of Computing and Artificial Intelligence. Prior to that, I obtained my Ph.D. at [MLO, École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/mlo/), fortunately advised by Prof. [Martin Jaggi](https://scholar.google.com/citations?user=r1TJBr8AAAAJ&hl=en). I received the Master of Science degree from EPFL and Bachelor of Science degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC).
+My research focuses on the theoretical foundations of reliable, safe, and efficient foundation models and AI agents.
 
-:fire: I am looking for highly motivated **graduate students**​​ (both MS and ​​PhD​​) to join our research team. Our lab focuses on the **robustness, certainty, and efficiency** aspects of machine learning. Feel free to reach out to me at **helie@sufe.edu.cn** if you are interested. 
+- **Provable reliability and safety:** developing theoretically grounded methods for uncertainty quantification, robustness, and alignment in foundation models and agentic systems.
+- **Learning and inference efficiency:** designing methods that train, adapt, and reason faster with less data and computation.
+
+<div class="recruiting-callout">
+  <strong>Open positions.</strong> I am looking for highly motivated undergraduate, MS, and PhD students to join our research team. Feel free to reach out to me at <a href="mailto:helie@sufe.edu.cn">helie@sufe.edu.cn</a> if you are interested.
+</div>

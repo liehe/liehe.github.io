@@ -1,40 +1,61 @@
 ---
 ---
-@article{DBLP:journals/corr/abs-2510-07093,
-  abbr       = {ICLR},
-  author       = {Yunzhen Yao and
-                  Lie He† and
-                  Michael Gastpar},
-  title        = {Non-Asymptotic Analysis of Efficiency in Conformalized Regression},
-  journal      = {CoRR},
-  volume       = {abs/2510.07093},
-  year         = {2025},
-  url          = {https://doi.org/10.48550/arXiv.2510.07093},
-  doi          = {10.48550/ARXIV.2510.07093},
-  eprinttype    = {arXiv},
-  eprint       = {2510.07093},
-  timestamp    = {Tue, 11 Nov 2025 13:12:13 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2510-07093.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{yao2026joint,
+  abbr              = {NeurIPS},
+  author            = {Yunzhen Yao* and
+                       Hongye Wang* and
+                       Yahong Wang and
+                       Michael C. Gastpar and
+                       Bo Jiang† and
+                       Lie He†},
+  title             = {Joint Consistency: {A} Unified Test-Time Aggregation Framework via Energy Minimization},
+  booktitle         = {Advances in Neural Information Processing Systems},
+  year              = {2026},
+  category          = {published},
+  url               = {https://arxiv.org/abs/2605.06219},
+  arxiv             = {2605.06219}
 }
 
-@article{DBLP:journals/corr/abs-2501-18282,
-  abbr       = {ICML},
-  author     = {Yunzhen Yao and
-                Lie He and
-                Michael Gastpar},
-  title      = {Leveraging Sparsity for Sample-Efficient Preference Learning: {A}
-                Theoretical Perspective},
-  journal    = {CoRR},
-  volume     = {abs/2501.18282},
-  year       = {2025},
-  url        = {https://doi.org/10.48550/arXiv.2501.18282},
-  doi        = {10.48550/ARXIV.2501.18282},
-  eprinttype = {arXiv},
-  eprint     = {2501.18282},
-  timestamp  = {Wed, 26 Feb 2025 00:00:00 +0100},
-  biburl     = {https://dblp.org/rec/journals/corr/abs-2501-18282.bib},
-  bibsource  = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{DBLP:journals/corr/abs-2510-07093,
+  abbr      = {ICLR},
+  author    = {Yunzhen Yao and
+               Lie He† and
+               Michael Gastpar},
+  title     = {Non-Asymptotic Analysis of Efficiency in Conformalized Regression},
+  booktitle = {International Conference on Learning Representations},
+  editor    = {C. Vondrick and
+               B. Hariharan and
+               C. Raffel and
+               L. Pinto and
+               D. Yang and
+               A. Faust},
+  pages     = {42546--42583},
+  volume    = {2026},
+  year      = {2026},
+  category  = {published},
+  url       = {https://proceedings.iclr.cc/paper_files/paper/2026/file/467b55d1eeee930e0316d539ca5abd3d-Paper-Conference.pdf},
+  pdf       = {https://proceedings.iclr.cc/paper_files/paper/2026/file/467b55d1eeee930e0316d539ca5abd3d-Paper-Conference.pdf},
+  arxiv     = {2510.07093}
+}
+
+@inproceedings{DBLP:journals/corr/abs-2501-18282,
+  abbr      = {ICML},
+  author    = {Yunzhen Yao and
+               Lie He and
+               Michael Gastpar},
+  title     = {Leveraging Sparsity for Sample-Efficient Preference Learning: {A}
+               Theoretical Perspective},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+  publisher = {JMLR.org},
+  series    = {ICML'25},
+  articleno = {2870},
+  numpages  = {26},
+  location  = {Vancouver, Canada},
+  year      = {2025},
+  category  = {published},
+  url       = {https://doi.org/10.48550/arXiv.2501.18282},
+  arxiv     = {2501.18282},
+  abstract  = {This paper considers the sample-efficiency of preference learning, which models and predicts human choices based on comparative judgments. The minimax optimal estimation error rate $\Theta(d/n)$ in classical estimation theory requires that the number of samples $n$ scales linearly with the dimensionality of the feature space $d$. However, the high dimensionality of the feature space and the high cost of collecting human-annotated data challenge the efficiency of traditional estimation methods. To remedy this, we leverage sparsity in the preference model and establish sharp error rates. We show that under the sparse random utility model, where the parameter of the reward function is $k$-sparse, the minimax optimal rate can be reduced to $\Theta(k/n \log(d/k))$. Furthermore, we analyze the $\ell_1$-regularized estimator and show that it achieves a near-optimal rate under mild assumptions on the Gram matrix. Experiments on synthetic data and LLM alignment data validate our theoretical findings, showing that sparsity-aware methods significantly reduce sample complexity and improve prediction accuracy.}
 }
 
 @inproceedings{DBLP:conf/nips/HashemiHJ24,
@@ -54,6 +75,7 @@
                on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
                BC, Canada, December 10 - 15, 2024},
   year      = {2024},
+  category  = {published},
   url       = {http://papers.nips.cc/paper\_files/paper/2024/hash/1c32452f112719f7c1db6d983d060f78-Abstract-Conference.html},
   timestamp = {Thu, 13 Feb 2025 00:00:00 +0100},
   biburl    = {https://dblp.org/rec/conf/nips/HashemiHJ24.bib},
@@ -71,6 +93,7 @@
   journal   = {Trans. Mach. Learn. Res.},
   volume    = {2023},
   year      = {2023},
+  category  = {published},
   url       = {https://openreview.net/forum?id=B0uBSSUy0G},
   timestamp = {Thu, 01 Aug 2024 01:00:00 +0200},
   biburl    = {https://dblp.org/rec/journals/tmlr/WernerHJJK23.bib},
@@ -93,6 +116,7 @@
                on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans,
                LA, USA, December 10 - 16, 2023},
   year      = {2023},
+  category  = {published},
   url       = {http://papers.nips.cc/paper\_files/paper/2023/hash/f944a7bcfe9e76b34490ebe4e29196d9-Abstract-Conference.html},
   timestamp = {Fri, 01 Mar 2024 00:00:00 +0100},
   biburl    = {https://dblp.org/rec/conf/nips/HeK23.bib},
@@ -111,6 +135,7 @@
                2022, Virtual Event, April 25-29, 2022},
   publisher = {OpenReview.net},
   year      = {2022},
+  category  = {published},
   url       = {https://openreview.net/forum?id=jXKKDEi5vJt},
   timestamp = {Sat, 20 Aug 2022 01:00:00 +0200},
   biburl    = {https://dblp.org/rec/conf/iclr/KarimireddyHJ22.bib},
@@ -125,6 +150,7 @@
   journal    = {CoRR},
   volume     = {abs/2202.01545},
   year       = {2022},
+  category   = {other},
   url        = {https://arxiv.org/abs/2202.01545},
   eprinttype = {arXiv},
   eprint     = {2202.01545},
@@ -200,6 +226,7 @@
   number    = {1-2},
   pages     = {1--210},
   year      = {2021},
+  category  = {published},
   url       = {https://doi.org/10.1561/2200000083},
   doi       = {10.1561/2200000083},
   timestamp = {Sun, 06 Oct 2024 01:00:00 +0200},
@@ -223,6 +250,7 @@
   pages     = {5311--5319},
   publisher = {{PMLR}},
   year      = {2021},
+  category  = {published},
   url       = {http://proceedings.mlr.press/v139/karimireddy21a.html},
   timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},
   biburl    = {https://dblp.org/rec/conf/icml/KarimireddyHJ21.bib},
@@ -250,6 +278,7 @@
                6-14, 2021, virtual},
   pages     = {28004--28015},
   year      = {2021},
+  category  = {published},
   url       = {https://proceedings.neurips.cc/paper/2021/hash/ebbdfea212e3a756a1fded7b35578525-Abstract.html},
   timestamp = {Tue, 03 May 2022 01:00:00 +0200},
   biburl    = {https://dblp.org/rec/conf/nips/VogelsHKKLSJ21.bib},
@@ -265,6 +294,7 @@
   journal    = {CoRR},
   volume     = {abs/2006.04747},
   year       = {2020},
+  category   = {other},
   url        = {https://arxiv.org/abs/2006.04747},
   eprinttype = {arXiv},
   eprint     = {2006.04747},
@@ -290,6 +320,7 @@
                3-8, 2018, Montr{\'{e}}al, Canada},
   pages     = {4541--4551},
   year      = {2018},
+  category  = {published},
   url       = {https://proceedings.neurips.cc/paper/2018/hash/05a70454516ecd9194c293b0e415777f-Abstract.html},
   timestamp = {Mon, 16 May 2022 15:41:51 +0200},
   biburl    = {https://dblp.org/rec/conf/nips/HeBJ18.bib},
