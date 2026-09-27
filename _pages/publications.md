@@ -19,6 +19,10 @@ nav_order: 2
 
 {% bibliography --group_by year --group_order descending --query @*[category=published]* %}
 
+<h1>Preprints</h1>
+
+{% bibliography --group_by year --group_order descending --query @*[category=preprint]* %}
+
 <h1>Workshop &amp; technical reports</h1>
 
 {% bibliography --group_by year --group_order descending --query @*[category=other]* %}
