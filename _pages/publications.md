@@ -15,13 +15,13 @@ nav_order: 2
 
 <div class="publications">
 
-<h1>Conference &amp; journal papers</h1>
-
-{% bibliography --group_by year --group_order descending --query @*[category=published]* %}
-
 <h1>Preprints</h1>
 
 {% bibliography --group_by year --group_order descending --query @*[category=preprint]* %}
+
+<h1>Conference &amp; journal papers</h1>
+
+{% bibliography --group_by year --group_order descending --query @*[category=published]* %}
 
 <h1>Workshop &amp; technical reports</h1>
 

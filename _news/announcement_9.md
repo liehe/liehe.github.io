@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve as an **Area Chair for ICLR 2026**.
+Invited to serve as an **Area Chair for ICLR 2027**.
